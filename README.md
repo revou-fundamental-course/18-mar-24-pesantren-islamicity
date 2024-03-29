@@ -42,8 +42,8 @@ Sebagai seorang Insinyur Perangkat Lunak, Anda diminta untuk membuat situs web u
   - Harap hanya letakkan 1 file css untuk seluruh proyek
 - Letakkan file javascript di dalam folder js/
   - Harap hanya letakkan 1 file javascript untuk seluruh proyek
-- Setelah selesai membuat situs web Anda, unggah Kode Sumber di GitHub Classroom dan publikasikan situs web di Github Pages
-- Kirim URL repositori dan situs web yang dipublikasikan melalui pengumpulan Typeform khusus yang akan dibuka pada hari Rabu minggu ke-2
+- Setelah selesai membuat situs web Anda, unggah Kode Sumber di [GitHub Classroom](https://rebrand.ly/fcse-github) dan publikasikan situs web di [Github Pages](https://pages.github.com/)
+- Kirim URL repositori dan situs web yang dipublikasikan melalui [pengumpulan Typeform khusus](https://rebrand.ly/FCSWE-miniproject) yang akan dibuka pada hari Rabu minggu ke-2
 
 ## Halaman Wajib (diperlukan):
 
