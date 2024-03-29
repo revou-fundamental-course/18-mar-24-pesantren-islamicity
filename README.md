@@ -26,7 +26,7 @@ Pastikan Anda telah mengunduh Visual Studio Code, Git, dan memiliki akses ke Goo
 
 ## Instruksi Proyek Mini
 
-Sebagai seorang Insinyur Perangkat Lunak, Anda diminta untuk membuat situs web untuk agen perjalanan. Anda harus membuat banner, informasi tentang paket perjalanan di halaman utama. Dapatkan informasi pribadi dan pertanyaan dari klien Anda (Nama, Email, Tujuan Perjalanan) dengan menggunakan validasi JavaScript. Buatlah situs web menggunakan desain mockup di bawah ini (mockup lengkap ada di tautan mockup)
+Sebagai seorang Insinyur Perangkat Lunak, Anda diminta untuk membuat situs web untuk agen perjalanan. Anda harus membuat banner, informasi tentang paket perjalanan di halaman utama. Dapatkan informasi pribadi dan pertanyaan dari klien Anda (Nama, Email, Tujuan Perjalanan) dengan menggunakan validasi JavaScript. Buatlah situs web menggunakan desain mockup di bawah ini (mockup lengkap ada di tautan [mockup](https://app.moqups.com/Y8iumYO1yOg5P2v9YSZ4pW7u8Hs15D2s/view/page/abaae0961)
 
 ### Alur Kerja:
 
